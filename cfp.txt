@@ -1,4 +1,4 @@
-=Dagstuhl Summer School: 3rd Summer Datathon on Linguistic Linked Open Data (SD-LLOD-19)=
+= Dagstuhl Summer School: 3rd Summer Datathon on Linguistic Linked Open Data (SD-LLOD-19) =
 
 
 The 3rd Summer Datathon on Linguistic Linked Open Data (SD-LLOD-19) will be held from May 12 to 17, 2019 in Schloss Dagstuhl -- Leibniz Center for Informatics, Wadern, Germany (see http://datathon2019.linguistic-lod.org). SD-LLOD-19 is organized in conjunction with and held before the 2nd Conference on Language, Data and Knowledge (LDK-2019), May 20-22, Leipzig, Germany (http://2019.ldk-conf.org).
@@ -10,42 +10,42 @@ We provide tutorials and supervision by leading experts on Linked Open Data and 
 The SD-LLOD datathon is unique in its specialization worldwide and continues a series of international hackathons and summer schools organized since 2012. This edition is supported by several international projects addressing different aspects of natural language processing, lexicography and digital humanities: The Research Group "Linked Open Dictionaries (LiODi)", funded by the German Federal Ministry of Education and Research (BMBF), the Horizon 2020 Research and Innovation Action "Pret-a-LLOD. Ready-to-use Multilingual Linked Language Data for Knowledge Services across Sectors" and the Horizon 2020 Research and Innovation Action "ELEXIS. European Lexicographic Infrastructure".
 
 During the datathon, participants will:
-* Generate and publish their own Linguistic Linked (Open) Data from some existing data sources or existing tools.
-* Apply Linked Data principles and Semantic Web technologies (Ontologies, RDF, Linked Data) to language resources and human language technology.
-* Use the principal models for representing Linguistic Linked Open Data, in particular Ontolex-Lemon, Web Annotation and knowledge representation vocabularies such as SKOS and OWL.
-* Gather experiences with terminology resources developed for or used in the Linguistic Linked Open Data context, such as lexvo, lexinfo, OLiA and GOLD. 
-* Learn about multilingual dataset linking against knowledge bases from the Web of Data, such as DBpedia or BabelNet.
-* Learn about benefits and applications of linguistic linked data for specific use cases.
+- Generate and publish their own Linguistic Linked (Open) Data from some existing data sources or existing tools.
+- Apply Linked Data principles and Semantic Web technologies (Ontologies, RDF, Linked Data) to language resources and human language technology.
+- Use the principal models for representing Linguistic Linked Open Data, in particular Ontolex-Lemon, Web Annotation and knowledge representation vocabularies such as SKOS and OWL.
+- Gather experiences with terminology resources developed for or used in the Linguistic Linked Open Data context, such as lexvo, lexinfo, OLiA and GOLD. 
+- Learn about multilingual dataset linking against knowledge bases from the Web of Data, such as DBpedia or BabelNet.
+- Learn about benefits and applications of linguistic linked data for specific use cases.
 
 The program of the summer datathon will contain three types of sessions:
-* Seminars *to show novel aspects and discuss selected topics.
-* Practical sessions* to introduce the basic foundations of each topic, methods, and technologies and where participants will perform different tasks using the methods and technologies presented.
-* Hacking sessions,* where participants will follow the whole process of generating and publishing Linguistic Linked Data with some existing data set.
+- Seminars *to show novel aspects and discuss selected topics.
+- Practical sessions* to introduce the basic foundations of each topic, methods, and technologies and where participants will perform different tasks using the methods and technologies presented.
+- Hacking sessions,* where participants will follow the whole process of generating and publishing Linguistic Linked Data with some existing data set.
 
 In addition to  participation, attendants are invited to propose a miniproject related to the topic and to bring to the datathon some dataset of linguistic data produced by their organizations  to work with during the hacking sessions and transform into linked data. Participants who cannot provide their own linguistic dataset can join another's miniproject or some of the ones proposed by the organisers. There will be an award to the best miniproject.
 
 Participants should bring their own laptops to follow and participate in the hacking sessions, they will be provided with digital copies of all necessary material used during the course and will have assistance for installing all the required software. 
 
-==Invited Speakers==
+== Invited Speakers ==
 
 Gerard de Melo, Director of the Deep Data Lab, Department of Computer Science, Rutgers University, New Jersey
 
 Richard Eckart de Castilho, Ubiquitous Knowledge Processing (UKP) Lab, Department of Computer Science, Technische Universität Darmstadt, Germany
 
-==How to Apply==
+== How to Apply ==
 
 We invite scholars, students and practitioners from any field of lexicography, the language sciences, natural language processing, knowledge engineering, and computational philology to apply for participation. For further details on fees, the registration process, information on the venue, the program and points of contact, please see under https://datathon2019.linguistic-lod.org.
 
 Participants are encouraged to submit a short abstract of their ideas for the datathon (description of possible resources to be converted, linked or reused during the datathon, ideas for use cases, etc.). A selection of them will be presented during the event and proposed as miniprojects to be developed during the datathon. Registration will open on January 25 and close on April 4, 2019. Please note that the number of participants is strictly limited, so we encourage to apply as soon as possible.
 
-==Important dates==
+== Important dates ==
 
  Registration opens:  January 25, 2019 
  Registration closes: April 4, 2019 
  Notification:        April 12, 2019 
  Datathon:            May 12 to 17, 2019 
  
-==Organizers==
+== Organizers ==
 
 Christian Chiarcos (Goethe Universität Frankfurt, Germany)
 Jorge Gracia (University of Zaragoza, Spain)
